@@ -1,0 +1,2 @@
+# JaredAndroids
+managed APK android
